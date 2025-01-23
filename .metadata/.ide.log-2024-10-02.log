@@ -1,0 +1,25 @@
+2024-10-03 12:15:08,825 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-10-03 12:15:09,172 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:09,603 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:09,743 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:09,776 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:09,805 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:09,810 [INFO] ApiDb:448 - Save user favorites file C:\Users\User/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-10-03 12:15:09,810 [INFO] ApiDb:452 - User favorites MCUs=[]
+2024-10-03 12:15:09,811 [INFO] ApiDb:448 - Save user favorites file C:\Users\User/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2024-10-03 12:15:09,811 [INFO] ApiDb:452 - User favorites Boards=[]
+2024-10-03 12:15:10,166 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-10-03 12:15:10,168 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-10-03 12:15:10,169 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-10-03 12:15:11,782 [ERROR] ServerAccessManage:1172 - Problem during Server Connection :  IO error received handshake warning: unrecognized_name
+2024-10-03 12:15:11,782 [ERROR] ServerAccessManage:651 - Problem during Server Connection :  : .
+2024-10-03 12:15:11,782 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-10-03 12:15:11,782 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2024-10-03 12:15:18,420 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-10-03 12:15:18,594 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:18,779 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:18,824 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:18,898 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:20,958 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: received handshake warning: unrecognized_name
+2024-10-03 12:15:20,961 [INFO] ApiDb:448 - Save user favorites file C:\Users\User/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-10-03 12:15:20,961 [INFO] ApiDb:452 - User favorites MCUs=[]

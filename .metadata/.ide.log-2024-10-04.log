@@ -1,0 +1,232 @@
+2024-10-04 20:13:10,901 [INFO] WebApp:186 - Connection restablished
+2024-10-04 20:13:13,624 [INFO] WebApp:189 - Connection lost
+2024-10-04 20:13:13,992 [INFO] WebApp:186 - Connection restablished
+2024-10-04 20:32:19,396 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,508 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,509 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,518 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,621 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:32:19,720 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:32:19,821 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:32:19,939 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,998 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,999 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,999 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,999 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,999 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,999 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,999 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,999 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:19,999 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,024 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,070 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,071 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:20,099 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:22,282 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x185,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,343 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,344 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:32:24,369 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:04,621 [INFO] SpinnerEditorADC:65 - is string kkkk
+2024-10-04 20:33:05,799 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,802 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,802 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,802 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,802 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,802 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,802 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,802 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,802 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,815 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,838 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,841 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,852 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,928 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,929 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:05,969 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:07,282 [INFO] SpinnerEditorADC:65 - is string kkkk
+2024-10-04 20:33:16,417 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:33:16,580 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:33:16,742 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:33:16,915 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:33:17,046 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:33:17,087 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,087 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,087 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,087 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,087 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,087 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,095 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-10-04 20:33:17,135 [INFO] ADCParametersView:116 -        *      Rank 2 : false
+2024-10-04 20:33:25,097 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-10-04 20:33:25,097 [INFO] ADCParametersView:116 -        *      Rank 2 : false
+2024-10-04 20:33:40,141 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-10-04 20:33:40,142 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-10-04 20:34:29,420 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:34:37,631 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:34:53,269 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-04 20:36:17,891 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 635257776 Bytes (804257792)
+2024-10-04 20:36:18,947 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 661998512 Bytes (804257792)
+2024-10-04 20:36:23,970 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 353174848 Bytes (804257792)
+2024-10-04 20:36:24,177 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-10-04 20:36:24,177 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-10-04 20:36:24,178 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-10-04 20:36:24,178 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-10-04 20:36:24,178 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2024-10-04 20:36:24,178 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: DMA
+2024-10-04 20:36:24,178 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-10-04 20:36:24,179 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-10-04 20:36:24,281 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\license.tmp_save
+2024-10-04 20:36:24,404 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\license.tmp
+2024-10-04 20:36:24,478 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\gpio.tmp_save
+2024-10-04 20:36:24,599 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\gpio.tmp
+2024-10-04 20:36:24,783 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\dma.tmp_save
+2024-10-04 20:36:24,835 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\dma.tmp
+2024-10-04 20:36:24,845 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\dma_GV.tmp_save
+2024-10-04 20:36:24,886 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\dma_GV.tmp
+2024-10-04 20:36:24,913 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Src\stm32l4xx_it.c_save
+2024-10-04 20:36:25,107 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Src\stm32l4xx_it.c
+2024-10-04 20:36:25,135 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Inc\stm32l4xx_it.h_save
+2024-10-04 20:36:25,228 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Inc\stm32l4xx_it.h
+2024-10-04 20:36:25,285 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Src\stm32l4xx_hal_msp.c_save
+2024-10-04 20:36:25,441 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Src\stm32l4xx_hal_msp.c
+2024-10-04 20:36:25,460 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\system.tmp_save
+2024-10-04 20:36:25,524 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\MXTmpFiles\system.tmp
+2024-10-04 20:36:25,556 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Inc\stm32l4xx_hal_conf.h_save
+2024-10-04 20:36:25,663 [INFO] CodeEngine:335 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Inc\stm32l4xx_hal_conf.h
+2024-10-04 20:36:25,764 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Inc\main.h_save
+2024-10-04 20:36:25,903 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Inc\main.h
+2024-10-04 20:36:25,940 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Src\main.c_save
+2024-10-04 20:36:26,080 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\rbvfd\Core\Src\main.c
+2024-10-04 20:36:26,552 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 237mS.
+2024-10-04 20:36:26,555 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-10-04 20:36:26,614 [INFO] ConfigFileManager:1531 - The Die is : DIE415
+2024-10-04 20:36:27,968 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1413mS.
+2024-10-04 20:36:27,970 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-10-04 20:36:27,977 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.

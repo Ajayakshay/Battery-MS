@@ -1,0 +1,63 @@
+2025-01-21 00:51:33,701 [INFO] WebApp:186 - Connection restablished
+2025-01-21 00:51:35,804 [INFO] WebApp:189 - Connection lost
+2025-01-21 00:51:35,992 [INFO] WebApp:186 - Connection restablished
+2025-01-21 09:42:43,996 [INFO] WebApp:189 - Connection lost
+2025-01-21 09:42:54,927 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 664210832 Bytes (1073741824)
+2025-01-21 09:42:54,968 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-21 09:42:54,969 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-21 09:42:54,970 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-21 09:42:56,536 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 641389320 Bytes (1073741824)
+2025-01-21 09:43:02,004 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 682283784 Bytes (1073741824)
+2025-01-21 09:43:02,028 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-21 09:43:02,028 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-21 09:43:02,028 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-21 09:43:02,451 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SPI
+2025-01-21 09:43:02,451 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2025-01-21 09:43:02,451 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2025-01-21 09:43:02,451 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2025-01-21 09:43:02,451 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2025-01-21 09:43:02,451 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2025-01-21 09:43:02,452 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: FDCAN
+2025-01-21 09:43:02,454 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2025-01-21 09:43:02,464 [WARN] IP:2191 - MessageRAMOffset not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - RxFifo0ElmtsNbr not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - RxFifo0ElmtSize not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - RxFifo1ElmtsNbr not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - RxFifo1ElmtSize not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - RxBuffersNbr not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - RxBufferSize not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - TxEventsNbr not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - TxBuffersNbr not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - TxFifoQueueElmtsNbr not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - TxElmtSize not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - ClockCalibrationCCU not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - ClockDividerCCU not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - MinOscClkPeriodsCCU not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - TimeQuantaPerBitTimeCCU not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,465 [WARN] IP:2191 - WatchdogStartValueCCU not found: check if there is a RefParameter without a condition.
+2025-01-21 09:43:02,702 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\MXTmpFiles\license.tmp_save
+2025-01-21 09:43:03,153 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\MXTmpFiles\license.tmp
+2025-01-21 09:43:03,374 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\MXTmpFiles\gpio.tmp_save
+2025-01-21 09:43:03,508 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\MXTmpFiles\gpio.tmp
+2025-01-21 09:43:03,930 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Src\stm32g0xx_it.c_save
+2025-01-21 09:43:04,112 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Src\stm32g0xx_it.c
+2025-01-21 09:43:04,137 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Inc\stm32g0xx_it.h_save
+2025-01-21 09:43:04,212 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Inc\stm32g0xx_it.h
+2025-01-21 09:43:04,251 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Src\stm32g0xx_hal_msp.c_save
+2025-01-21 09:43:04,436 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Src\stm32g0xx_hal_msp.c
+2025-01-21 09:43:04,451 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\MXTmpFiles\system.tmp_save
+2025-01-21 09:43:04,548 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\MXTmpFiles\system.tmp
+2025-01-21 09:43:04,581 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Inc\stm32g0xx_hal_conf.h_save
+2025-01-21 09:43:04,666 [INFO] CodeEngine:335 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Inc\stm32g0xx_hal_conf.h
+2025-01-21 09:43:04,724 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Inc\main.h_save
+2025-01-21 09:43:04,856 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Inc\main.h
+2025-01-21 09:43:04,891 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Src\main.c_save
+2025-01-21 09:43:05,087 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\Core\Src\main.c
+2025-01-21 09:43:05,297 [INFO] ProjectBuilder:3249 - Time for Copy HAL[2] : 1mS.
+2025-01-21 09:43:05,314 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2025-01-21 09:43:05,416 [INFO] ConfigFileManager:1531 - The Die is : DIE467
+2025-01-21 09:43:05,440 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2025-01-21 09:43:05,458 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2025-01-21 09:43:05,480 [INFO] ApiDbMcu:508 - Load IP Config File for USBPD
+2025-01-21 09:43:05,499 [INFO] ApiDbMcu:508 - Load IP Config File for USB_Device
+2025-01-21 09:43:05,513 [INFO] ApiDbMcu:508 - Load IP Config File for USB_Host

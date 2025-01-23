@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BMS STM32G/Core/Inc/main.h&apos; to &apos;main_stmg.h&apos;" description="Rename resource &apos;main.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/main.h" name="main_stmg.h" stamp="1737310072047" updateReferences="true"/>
+</session>

@@ -1,0 +1,10 @@
+2025-01-19 11:59:46,029 [INFO] WebApp:189 - Connection lost
+2025-01-19 12:01:38,172 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 742916344 Bytes (1073741824)
+2025-01-19 12:01:38,231 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-19 12:01:38,231 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-19 12:01:38,232 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-01-19 12:01:38,387 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2025-01-19 12:01:38,387 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2025-01-19 12:01:38,387 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2025-01-19 12:01:38,388 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2025-01-19 12:01:38,388 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net

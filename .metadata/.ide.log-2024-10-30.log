@@ -1,0 +1,70 @@
+2024-10-31 09:14:41,897 [INFO] WebApp:189 - Connection lost
+2024-10-31 09:14:42,218 [INFO] WebApp:186 - Connection restablished
+2024-10-31 09:17:41,182 [INFO] WebApp:189 - Connection lost
+2024-10-31 09:17:41,516 [INFO] WebApp:186 - Connection restablished
+2024-10-31 09:18:07,173 [INFO] WebApp:189 - Connection lost
+2024-10-31 09:18:07,474 [INFO] WebApp:186 - Connection restablished
+2024-10-31 09:21:05,602 [INFO] WebApp:189 - Connection lost
+2024-10-31 09:21:05,921 [INFO] WebApp:186 - Connection restablished
+2024-10-31 17:25:44,635 [INFO] WebApp:189 - Connection lost
+2024-10-31 17:25:44,982 [INFO] WebApp:186 - Connection restablished
+2024-10-31 17:25:45,156 [INFO] WebApp:189 - Connection lost
+2024-10-31 17:25:45,466 [INFO] WebApp:186 - Connection restablished
+2024-10-31 17:25:47,091 [INFO] WebApp:189 - Connection lost
+2024-10-31 17:25:47,293 [INFO] WebApp:186 - Connection restablished
+2024-10-31 17:35:10,639 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 463319240 Bytes (783286272)
+2024-10-31 17:35:12,131 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 491630792 Bytes (783286272)
+2024-10-31 17:35:12,148 [ERROR] IocParser:95 - Exception caught: null
+2024-10-31 17:35:15,494 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 381059280 Bytes (783286272)
+2024-10-31 17:35:15,618 [INFO] ProjectBuilder:2320 - IP not ready for code generation: Clock
+2024-10-31 17:35:16,944 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-10-31 17:35:16,944 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-10-31 17:35:16,944 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-10-31 17:35:16,944 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-10-31 17:35:16,944 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: DMA
+2024-10-31 17:35:16,944 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-10-31 17:35:16,945 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-10-31 17:35:17,055 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\license.tmp_save
+2024-10-31 17:35:17,159 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\license.tmp
+2024-10-31 17:35:17,221 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\gpio.tmp_save
+2024-10-31 17:35:17,323 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\gpio.tmp
+2024-10-31 17:35:17,501 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\dma.tmp_save
+2024-10-31 17:35:17,575 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\dma.tmp
+2024-10-31 17:35:17,584 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\dma_GV.tmp_save
+2024-10-31 17:35:17,637 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\dma_GV.tmp
+2024-10-31 17:35:17,667 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Src\stm32l4xx_it.c_save
+2024-10-31 17:35:17,887 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Src\stm32l4xx_it.c
+2024-10-31 17:35:17,910 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Inc\stm32l4xx_it.h_save
+2024-10-31 17:35:17,999 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Inc\stm32l4xx_it.h
+2024-10-31 17:35:18,041 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Src\stm32l4xx_hal_msp.c_save
+2024-10-31 17:35:18,194 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Src\stm32l4xx_hal_msp.c
+2024-10-31 17:35:18,206 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\system.tmp_save
+2024-10-31 17:35:18,259 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\MXTmpFiles\system.tmp
+2024-10-31 17:35:18,285 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Inc\stm32l4xx_hal_conf.h_save
+2024-10-31 17:35:18,373 [INFO] CodeEngine:335 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Inc\stm32l4xx_hal_conf.h
+2024-10-31 17:35:18,449 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Inc\main.h_save
+2024-10-31 17:35:18,534 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Inc\main.h
+2024-10-31 17:35:18,562 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Src\main.c_save
+2024-10-31 17:35:18,680 [INFO] CodeEngine:279 - Generated code: C:\Users\User\STM32CubeIDE\workspace_1.16.1\peded\Core\Src\main.c
+2024-10-31 17:35:19,044 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 209mS.
+2024-10-31 17:35:19,049 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-10-31 17:35:19,122 [INFO] ConfigFileManager:1531 - The Die is : DIE415
+2024-10-31 17:35:20,547 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1499mS.
+2024-10-31 17:35:20,549 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-10-31 17:35:20,552 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-10-31 18:15:44,663 [INFO] WebApp:189 - Connection lost
+2024-10-31 18:15:45,048 [INFO] WebApp:186 - Connection restablished
+2024-10-31 18:17:24,709 [INFO] WebApp:189 - Connection lost
+2024-10-31 18:17:25,049 [INFO] WebApp:186 - Connection restablished
+2024-10-31 20:34:34,106 [INFO] WebApp:189 - Connection lost
+2024-10-31 20:34:34,448 [INFO] WebApp:186 - Connection restablished
+2024-10-31 20:34:44,648 [INFO] WebApp:189 - Connection lost
+2024-10-31 20:34:44,872 [INFO] WebApp:186 - Connection restablished
+2024-10-31 20:37:18,246 [INFO] WebApp:189 - Connection lost
+2024-10-31 20:37:18,837 [INFO] WebApp:186 - Connection restablished
+2024-10-31 20:37:29,185 [INFO] WebApp:189 - Connection lost
+2024-10-31 20:37:29,428 [INFO] WebApp:186 - Connection restablished
+2024-10-31 20:37:37,144 [INFO] WebApp:189 - Connection lost
+2024-10-31 20:37:37,428 [INFO] WebApp:186 - Connection restablished
+2024-10-31 21:32:06,133 [INFO] WebApp:189 - Connection lost
+2024-10-31 21:32:06,431 [INFO] WebApp:186 - Connection restablished

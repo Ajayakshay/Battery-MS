@@ -1,0 +1,38 @@
+/*
+ * LTC6804-STM-G.h
+ *
+ *  Created on: Jan 19, 2025
+ *      Author: Ajay
+ */
+
+#ifndef INC_LTC6804_STM_G_H_
+#define INC_LTC6804_STM_G_H_
+enum ltc6804_command_codes_e {
+    CMD_WRCFG   = 0x001,
+    CMD_RDCFG   = 0x002,
+    CMD_RDCVA   = 0x004,
+    CMD_RDCVB   = 0x006,
+    CMD_RDCVC   = 0x008,
+    CMD_RDCVD   = 0x00A,
+    CMD_RDAUXA  = 0x00C,
+    CMD_RDAUXB  = 0x00E,
+    CMD_RDSTATA = 0x010,
+    CMD_RDSTATB = 0x012,
+    CMD_ADCV    = 0x260,
+    CMD_ADOW    = 0x228,
+    CMD_CVST    = 0x207,
+    CMD_ADAX    = 0x460,
+    CMD_AXST    = 0x407,
+    CMD_ADSTAT  = 0x468,
+    CMD_STATST  = 0x40F,
+    CMD_ADCVAX  = 0x46F,
+    CMD_CLRCELL = 0x711,
+    CMD_CLRAUX  = 0x712,
+    CMD_CLRSTAT = 0x713,
+    CMD_PLADC   = 0x714,
+    CMD_DIAGN   = 0x715,
+    CMD_WRCOMM  = 0x721,
+    CMD_RDCOMM  = 0x722,
+    CMD_STCOMM  = 0x723,
+};
+#endif /* INC_LTC6804_STM_G_H_ */

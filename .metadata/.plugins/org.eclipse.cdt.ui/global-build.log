@@ -1,0 +1,14 @@
+23:01:59 **** Incremental Build of configuration Debug for project BMS STM32G ****
+make -j16 all 
+arm-none-eabi-gcc "../Core/Src/LTC6804_STM-G.c" -mcpu=cortex-m0plus -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32G0B1xx -c -I../Core/Inc -IC:/Users/User/STM32Cube/Repository/STM32Cube_FW_G0_V1.6.2/Drivers/STM32G0xx_HAL_Driver/Inc -IC:/Users/User/STM32Cube/Repository/STM32Cube_FW_G0_V1.6.2/Drivers/STM32G0xx_HAL_Driver/Inc/Legacy -IC:/Users/User/STM32Cube/Repository/STM32Cube_FW_G0_V1.6.2/Drivers/CMSIS/Device/ST/STM32G0xx/Include -IC:/Users/User/STM32Cube/Repository/STM32Cube_FW_G0_V1.6.2/Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/LTC6804_STM-G.d" -MT"Core/Src/LTC6804_STM-G.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/LTC6804_STM-G.o"
+arm-none-eabi-gcc -o "BMS STM32G.elf" @"objects.list"   -mcpu=cortex-m0plus -T"C:\Users\User\STM32CubeIDE\workspace_1.16.1\BMS STM32G\STM32G0B1RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="BMS STM32G.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: BMS STM32G.elf
+ 
+arm-none-eabi-size  BMS\ STM32G.elf 
+arm-none-eabi-objdump -h -S BMS\ STM32G.elf  > "BMS STM32G.list"
+   text	   data	    bss	    dec	    hex	filename
+  13476	     12	   1916	  15404	   3c2c	BMS STM32G.elf
+Finished building: default.size.stdout
+ 
+Finished building: BMS STM32G.list
+ 
