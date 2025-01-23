@@ -125,8 +125,7 @@ void LTC6804_StartCellVoltageConversion(void) {
 }
 // Function to read cell voltages from the LTC6804
 void LTC6804_ReadCellVoltages(uint16_t *voltages) {
-	// OBTAIN VOLTAGE FROM GROUP A
-
+	
     uint16_t cmd[4] = {CMD_RDCVA,CMD_RDCVB,CMD_RDCVC,CMD_RDCVD}; // Array Which Has Commands to Read Every Cell Group Voltages Separately
 
     for(int i = 0;i<4;i++){
