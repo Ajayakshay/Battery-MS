@@ -38,57 +38,6 @@ enum ltc6804_command_codes_e {
     CMD_RDCOMM  = 0x722, // Read COMM Register Group
     CMD_STCOMM  = 0x723  // Start I2C/SPI Communication
 };
-// GPIO pin definitions for Chip Select (CS) control
-#define LTC6804_CS_PIN GPIO_PIN_0
-#define LTC6804_CS_PORT GPIOA
-// Function to pull CS low, signaling the start of SPI communication
-void LTC6804_Select(void) {
-    HAL_GPIO_WritePin(LTC6804_CS_PORT, LTC6804_CS_PIN, GPIO_PIN_RESET);//SELECTS SLAVE BY PULLING DOWN LINE
-}
-// Function to release CS, signaling the end of SPI communication
-void LTC6804_Deselect(void) {
-    HAL_GPIO_WritePin(LTC6804_CS_PORT, LTC6804_CS_PIN, GPIO_PIN_SET);              // DESELECTS SLAVE BY PULLING UP LINE
-}
-
-// Function to send a command to the LTC6804 over SPI
-// cmd: Pointer to the command array
-// length: Number of bytes to transmit
-void LTC6804_SendCommand(uint16_t *cmd, uint16_t length) {
-    LTC6804_Select(); // Selects slave by pulling down line
-    HAL_SPI_Transmit(&hspi1, cmd, length, HAL_MAX_DELAY); //
-    LTC6804_Deselect(); // Deselects slave by pulling up line
-}
-// Function to send a command and read data from the LTC6804
-// cmd: Pointer to the command array
-// data: Pointer to the buffer for received data
-// length: Number of bytes to read
-void LTC6804_ReadData(uint16_t *cmd, uint16_t *data, uint16_t length) {
-    LTC6804_Select(); // Pull CS low
-    HAL_SPI_Transmit(&hspi1, cmd, 2, HAL_MAX_DELAY); // Send command (2 bytes)
-    HAL_SPI_Receive(&hspi1, data, length, HAL_MAX_DELAY); // Receive data
-    LTC6804_Deselect(); // Release CS
-}
-// Function to start cell voltage conversion
-// This sends the ADCV (Start Cell Voltage Conversion) command to the LTC6804
-void LTC6804_StartCellVoltageConversion(void) {
-    uint16_t cmd = CMD_ADCV; // ADCV Normal Mode, Discharge Disabled
-    LTC6804_SendCommand(cmd, 2);
-}
-// Function to read cell voltages from the LTC6804
-// voltages: Array to store the cell voltage values (16-bit each)
-void LTC6804_ReadCellVoltages(uint16_t *voltages) {
-    uint16_t cmd = CMD_RDCVA; // RDCVA Command to read cell voltage group A
-    uint8_t rx_data[6]; // Buffer for 6 bytes of received data (3 cell voltages)
-
-    // Send the read command and receive data
-    LTC6804_ReadData(cmd, rx_data, 6);
-
-    // Convert the received bytes into cell voltage values
-    for (int i = 0; i < 3; i++) {
-        voltages[i] = (rx_data[2 * i] | (rx_data[2 * i + 1] << 8)); // Combine LSB and MSB
-    }
-}
-
 typedef struct{
 	uint16_t packVoltage;
 	uint8_t SOC;
